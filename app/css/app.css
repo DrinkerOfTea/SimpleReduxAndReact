@@ -1,0 +1,22 @@
+.icon-block {
+    padding: 0 15px;
+}
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+.to-do-list {
+    margin-top: 20px;
+}
+
+.to-do-completed {
+    text-decoration: line-through;
+}
+
+.to-do-visibility-div {
+    margin-top: 40px;
+}
+
+.to-do-visibility-div a, span {
+    padding-right: 10px;
+}

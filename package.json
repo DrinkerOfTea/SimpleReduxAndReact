@@ -1,0 +1,33 @@
+{
+  "name": "simple-redux-and-react",
+  "version": "1.0.0",
+  "description": "Basic ES5 project to use React, Redux and Immutable without any complex builds etc. All libraries are contained in the Git repo. Modules are done using the module pattern and must be loaded from the index.html file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrinkerOfTea/SimpleReduxAndReact.git"
+  },
+  "author": "DrinkerOfTea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrinkerOfTea/SimpleReduxAndReact/issues"
+  },
+  "homepage": "https://github.com/DrinkerOfTea/SimpleReduxAndReact#readme",
+  "devDependencies": {
+    "deep-freeze": "0.0.1",
+    "expect": "^1.16.0",
+    "http-server": "^0.9.0"
+  },
+  "dependencies": {
+    "immutable": "^3.8.0",
+    "jquery": "^2.2.3",
+    "materialize-css": "^0.97.6",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-redux": "^4.4.5",
+    "redux": "^3.4.0"
+  }
+}
